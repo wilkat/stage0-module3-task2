@@ -2,7 +2,7 @@ package lang.print.gaps.task2;
 
 public class NamingConvention {
     public static void main(String[] args) {
-        int variable;
+        int variable ;
         int variable_one;
         int variableTwo;
         int variable_three;
